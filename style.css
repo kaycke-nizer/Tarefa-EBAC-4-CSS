@@ -8,9 +8,9 @@ body {
 h1 {
     background-color: #8D8CF5;
     color: #05051d;
-    size: 21px;
+    font-size: 46px;
 
-    padding: 26px;
+    padding: 44px;
     border-width: 2px;
     border-style: solid;
     border-color: black;
@@ -62,11 +62,11 @@ h3 {
 }
 
 .sports-section h3 {
-    background-color: #7B3BF5;
+    background-color: #3f2275;
 }
 
 .economy-section h3 {
-    background-color: #3BADF5;
+    background-color: #215c81;
 }
 
 .technology-section h3 {
@@ -74,7 +74,7 @@ h3 {
 }
 
 .pop-culture-section h3 {
-    background-color: #3B73F5;
+    background-color: rgb(119, 30, 30);
 }
 
 footer {
