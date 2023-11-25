@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #39386b;
+}
+
+h1 {
+    background-color: #8D8CF5;
+    color: #05051d;
+    size: 21px;
+
+    padding: 26px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+    box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.5);
+
+    border-radius: 16px;
+}
+
+nav {
+    color: #D4D4FF;
+}
+
+a {
+    color: #D4D4FF;
+}
+
+article {
+    background-color: #D4D4FF;
+
+    border-radius: 24px;
+    margin-bottom: 15px;
+
+    width: fit-content;
+    height: fit-content;
+
+    padding: 6px 36px;
+}
+
+h2 { 
+    color: #D4D4FF;
+    font-size: 32px;
+    background-color: #1e1e36;
+    padding: 36px;
+    margin-top: 5%;
+
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px 25px;
+
+    box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.418);
+}
+
+h3 {
+    color: #D4D4FF;
+    padding: 16px;
+    border-radius: 5px 25px;
+}
+
+.sports-section h3 {
+    background-color: #7B3BF5;
+}
+
+.economy-section h3 {
+    background-color: #3BADF5;
+}
+
+.technology-section h3 {
+    background-color: #345740;
+}
+
+.pop-culture-section h3 {
+    background-color: #3B73F5;
+}
+
+footer {
+    background-color: #3B3457;
+    color: antiquewhite;
+
+    padding: 5px;
+    padding-bottom: 15px;
+}
