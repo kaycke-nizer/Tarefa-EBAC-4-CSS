@@ -61,16 +61,32 @@ h3 {
     border-radius: 5px 25px;
 }
 
+.sports-section article {
+    background-color: #a093bd;
+}
+
 .sports-section h3 {
     background-color: #3f2275;
+}
+
+.economy-section article {
+    background-color: #adcbdf;
 }
 
 .economy-section h3 {
     background-color: #215c81;
 }
 
+.technology-section article {
+    background-color: #9cccad;
+}
+
 .technology-section h3 {
     background-color: #345740;
+}
+
+.pop-culture-section article {
+    background-color: rgb(185, 133, 133);
 }
 
 .pop-culture-section h3 {
